@@ -85,7 +85,7 @@ The necessary binaries can be found in the [project releases](https://github.com
 
 ## Amiga specific key mappings
 
-| Amiga key | Nanomig key |
+| Amiga key | NanoMig key |
 | --------- | ----------- |
 | Left Amiga | Left meta (Windows) key |
 | Right Amiga | Right meta / Page Down |
